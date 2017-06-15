@@ -1,0 +1,6 @@
+Symlinking /home/ruinianxu/ws_moveit/devel/share/pr2_moveit_plugins/cmake/pr2_moveit_pluginsConfig-version.cmake
+Symlinking /home/ruinianxu/ws_moveit/devel/share/pr2_moveit_plugins/cmake/pr2_moveit_pluginsConfig.cmake
+Symlinking /home/ruinianxu/ws_moveit/devel/lib/libpr2_moveit_arm_kinematics.so
+Symlinking /home/ruinianxu/ws_moveit/devel/lib/libpr2_moveit_controller_manager.so
+Symlinking /home/ruinianxu/ws_moveit/devel/lib/libpr2_moveit_sensor_manager.so
+Symlinking /home/ruinianxu/ws_moveit/devel/lib/pkgconfig/pr2_moveit_plugins.pc

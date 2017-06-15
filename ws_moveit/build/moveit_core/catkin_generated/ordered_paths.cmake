@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/ruinianxu/ws_moveit/devel/.private/geometric_shapes/lib;/home/ruinianxu/ws_moveit/devel/.private/srdfdom/lib;/opt/ros/kinetic/lib")

@@ -1,0 +1,6 @@
+devel_space: /home/ruinianxu/ws_moveit/devel
+install: false
+install_space: /home/ruinianxu/ws_moveit/install
+profile: default
+source_space: /home/ruinianxu/ws_moveit/src
+workspace: /home/ruinianxu/ws_moveit

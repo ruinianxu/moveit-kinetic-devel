@@ -1,0 +1,1 @@
+/home/ruinianxu/ws_moveit/devel/.private/pr2_moveit_plugins/share/pr2_moveit_plugins/cmake/pr2_moveit_pluginsConfig-version.cmake

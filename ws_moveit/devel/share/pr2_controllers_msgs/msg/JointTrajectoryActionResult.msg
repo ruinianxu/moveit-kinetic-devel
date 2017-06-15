@@ -1,0 +1,1 @@
+/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/pr2_controllers_msgs/msg/JointTrajectoryActionResult.msg

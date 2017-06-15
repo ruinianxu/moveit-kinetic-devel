@@ -1,0 +1,1 @@
+/home/ruinianxu/ws_moveit/devel/.private/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig-version.cmake

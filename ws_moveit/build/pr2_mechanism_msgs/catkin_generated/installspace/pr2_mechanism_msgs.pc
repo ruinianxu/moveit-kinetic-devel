@@ -1,0 +1,8 @@
+prefix=/home/ruinianxu/ws_moveit/install
+
+Name: pr2_mechanism_msgs
+Description: Description of pr2_mechanism_msgs
+Version: 1.8.1
+Cflags: -I/home/ruinianxu/ws_moveit/install/include
+Libs: -L/home/ruinianxu/ws_moveit/install/lib 
+Requires: message_runtime

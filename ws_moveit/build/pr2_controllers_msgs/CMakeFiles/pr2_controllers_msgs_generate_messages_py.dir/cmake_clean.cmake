@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pr2_controllers_msgs_generate_messages_py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryActionFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryActionGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionActionFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadActionGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandActionFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionActionResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionAction.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointControllerState.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadActionResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommand.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandAction.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadActionFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandActionGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionFeedback.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadAction.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_PointHeadResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryAction.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_Pr2GripperCommandActionResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryActionResult.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_SingleJointPositionActionGoal.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/_JointTrajectoryControllerState.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/srv/_QueryTrajectoryState.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/srv/_QueryCalibrationState.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/msg/__init__.py"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/lib/python2.7/dist-packages/pr2_controllers_msgs/srv/__init__.py"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pr2_controllers_msgs_generate_messages_py.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

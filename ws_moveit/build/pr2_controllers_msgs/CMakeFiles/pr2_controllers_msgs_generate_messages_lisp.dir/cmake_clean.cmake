@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pr2_controllers_msgs_generate_messages_lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryActionFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryActionGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionActionFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadActionGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandActionFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionActionResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionAction.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointControllerState.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadActionResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommand.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandAction.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadActionFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandActionGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionFeedback.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadAction.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/PointHeadResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryAction.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/Pr2GripperCommandActionResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryActionResult.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/SingleJointPositionActionGoal.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/msg/JointTrajectoryControllerState.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/srv/QueryTrajectoryState.lisp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/share/common-lisp/ros/pr2_controllers_msgs/srv/QueryCalibrationState.lisp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pr2_controllers_msgs_generate_messages_lisp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

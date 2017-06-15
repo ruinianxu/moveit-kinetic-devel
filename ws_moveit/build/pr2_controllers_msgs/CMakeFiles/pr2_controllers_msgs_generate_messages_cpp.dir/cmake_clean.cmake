@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/pr2_controllers_msgs_generate_messages_cpp"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryActionFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryActionGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionActionFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadActionGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandActionFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionActionResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionAction.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointControllerState.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadActionResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommand.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandAction.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadActionFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandActionGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionFeedback.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadAction.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/PointHeadResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryAction.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/Pr2GripperCommandActionResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryActionResult.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/SingleJointPositionActionGoal.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/JointTrajectoryControllerState.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/QueryTrajectoryState.h"
+  "/home/ruinianxu/ws_moveit/devel/.private/pr2_controllers_msgs/include/pr2_controllers_msgs/QueryCalibrationState.h"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/pr2_controllers_msgs_generate_messages_cpp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

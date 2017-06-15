@@ -1,0 +1,1 @@
+/home/ruinianxu/ws_moveit/devel/.private/pr2_msgs/share/roseus/ros/pr2_msgs/manifest.l

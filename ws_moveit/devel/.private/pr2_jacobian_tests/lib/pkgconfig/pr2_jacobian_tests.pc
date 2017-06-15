@@ -1,0 +1,8 @@
+prefix=/home/ruinianxu/ws_moveit/devel/.private/pr2_jacobian_tests
+
+Name: pr2_jacobian_tests
+Description: Description of pr2_jacobian_tests
+Version: 0.6.3
+Cflags: 
+Libs: -L/home/ruinianxu/ws_moveit/devel/.private/pr2_jacobian_tests/lib 
+Requires: kdl_parser

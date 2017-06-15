@@ -1,0 +1,4 @@
+moveit_pr2-kinetic-devel/tests/pr2_jacobian_tests
+/home/ruinianxu/ws_moveit/devel/.private/pr2_jacobian_tests/share/pr2_jacobian_tests/cmake/pr2_jacobian_testsConfig.cmake /home/ruinianxu/ws_moveit/devel/share/pr2_jacobian_tests/cmake/pr2_jacobian_testsConfig.cmake
+/home/ruinianxu/ws_moveit/devel/.private/pr2_jacobian_tests/share/pr2_jacobian_tests/cmake/pr2_jacobian_testsConfig-version.cmake /home/ruinianxu/ws_moveit/devel/share/pr2_jacobian_tests/cmake/pr2_jacobian_testsConfig-version.cmake
+/home/ruinianxu/ws_moveit/devel/.private/pr2_jacobian_tests/lib/pkgconfig/pr2_jacobian_tests.pc /home/ruinianxu/ws_moveit/devel/lib/pkgconfig/pr2_jacobian_tests.pc

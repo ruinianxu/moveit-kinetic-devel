@@ -1,0 +1,6 @@
+moveit_resources
+/home/ruinianxu/ws_moveit/devel/.private/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig.cmake /home/ruinianxu/ws_moveit/devel/share/moveit_resources/cmake/moveit_resourcesConfig.cmake
+/home/ruinianxu/ws_moveit/devel/.private/moveit_resources/share/moveit_resources/cmake/moveit_resourcesConfig-version.cmake /home/ruinianxu/ws_moveit/devel/share/moveit_resources/cmake/moveit_resourcesConfig-version.cmake
+/home/ruinianxu/ws_moveit/devel/.private/moveit_resources/include/moveit_resources/config.h /home/ruinianxu/ws_moveit/devel/include/moveit_resources/config.h
+/home/ruinianxu/ws_moveit/devel/.private/moveit_resources/include/moveit_resources/.config_install.h /home/ruinianxu/ws_moveit/devel/include/moveit_resources/.config_install.h
+/home/ruinianxu/ws_moveit/devel/.private/moveit_resources/lib/pkgconfig/moveit_resources.pc /home/ruinianxu/ws_moveit/devel/lib/pkgconfig/moveit_resources.pc
